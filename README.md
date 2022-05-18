@@ -3,7 +3,7 @@ Jazzhong1999/Jazzhong1999 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![](Profile%20Picture.png)
+![](ProfilePicture.JPG)
 
 👋🏻 Hi there, I'm Jazz. I'm a Malaysian and I'm very happy you found my profile here on github! <br/>
 
