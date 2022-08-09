@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 My hobbies: <br/>
 
 👨🏻‍💻 Developing cool projects <br/>
-🎮 Play video games <br>
+🎮 Video games <br>
 🎾 Sports <br/>
-🚗 Traveling around <br/>
+🚗 Traveling <br/>
 📚 Reading books <br/>
