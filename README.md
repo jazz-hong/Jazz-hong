@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 👋🏻 Hi there, I'm Jazz. I'm a Malaysian and I'm very happy you found my profile here on github! <br/>
 
-🌐 Visit my website jazzhong.com and take a look! <br/>
+🌐 Visit my website at jazzhong.com and take a look! <br/>
 
 My hobbies: <br/>
 
