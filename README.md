@@ -17,25 +17,5 @@ My hobbies: <br/>
 🚗 Traveling <br/>
 📚 Reading books <br/>
 
-<h2 align="center"><u>Read Me!</u></h2>
 
-![Welcome](![](Jazz.jpeg))
-<h4 align="center"> Welcome </h4>
-
-<p align="center">
-<br>
-</p>
-
-### [+] Description
-👋🏻 Hi there, I'm Jazz. I'm a Malaysian and I'm very happy you found my profile here on github! 
-
-🌐 Visit my website at jazzhong.com and take a look! 
-
-My hobbies: 
-
-👨🏻‍💻 Developing cool projects 
-🎮 Video games 
-🎾 Sports 
-🚗 Traveling 
-📚 Reading books 
 
