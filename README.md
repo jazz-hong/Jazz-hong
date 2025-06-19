@@ -1,19 +1,25 @@
-<!---
-Jazzhong1999/Jazzhong1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- <p align="center">
+  <img src="Jazz2.png" alt="Jazz's Avatar" width="200"/>
+</p> -->
 
-![](Jazz.jpeg)
+![](Jazz2.png)
 
-👋🏻 Hi there, I'm Jazz. I'm a Malaysian and I'm very happy you found my profile here on github! <br/>
+# 👋🏻 Hi, I'm Jazz!
 
-My hobbies: <br/>
+I'm from Malaysia, and I'm delighted that you've found your way to my GitHub profile!
+
+## 🌱 About Me
 
 👨🏻‍💻 Developing cool projects <br/>
 🎮 Video games <br>
 🎾 Sports <br/>
 🚗 Traveling <br/>
 📚 Reading books <br/>
+
+---
+
+Want to know more?  
+Check out my personal website: [JAZZ-HONG](https://jazz-hong.github.io)
 
 
 
